@@ -1,0 +1,11 @@
+C:\Users\hans2\source\repos\actividad5\actividad5\bin\Debug\actividad5.exe.config
+C:\Users\hans2\source\repos\actividad5\actividad5\bin\Debug\actividad5.exe
+C:\Users\hans2\source\repos\actividad5\actividad5\bin\Debug\actividad5.pdb
+C:\Users\hans2\source\repos\actividad5\actividad5\obj\Debug\actividad5.csproj.AssemblyReference.cache
+C:\Users\hans2\source\repos\actividad5\actividad5\obj\Debug\actividad5.csproj.SuggestedBindingRedirects.cache
+C:\Users\hans2\source\repos\actividad5\actividad5\obj\Debug\actividad5.Form1.resources
+C:\Users\hans2\source\repos\actividad5\actividad5\obj\Debug\actividad5.Properties.Resources.resources
+C:\Users\hans2\source\repos\actividad5\actividad5\obj\Debug\actividad5.csproj.GenerateResource.cache
+C:\Users\hans2\source\repos\actividad5\actividad5\obj\Debug\actividad5.csproj.CoreCompileInputs.cache
+C:\Users\hans2\source\repos\actividad5\actividad5\obj\Debug\actividad5.exe
+C:\Users\hans2\source\repos\actividad5\actividad5\obj\Debug\actividad5.pdb
